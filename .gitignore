@@ -67,3 +67,8 @@ data/
 
 # PyCharm
 .idea/
+
+# domino
+.domino/
+.domino*
+dominos*

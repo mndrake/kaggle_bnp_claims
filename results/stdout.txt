@@ -1,0 +1,753 @@
+base score
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  120   F = 4.435343E-01    MAXCV = 0.000000E+00
+   X = 0.000000E+00   1.467065E+00   8.913972E-01   4.224202E+00   2.686470E+00
+error: 0.443534345694
+training model with parameters: 
+{'colsample_bytree': 0.7000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.8500000000000001, 'eta': 0.375, 'objective': 'binary:logistic', 'max_depth': 4.0, 'gamma': 0.8}
+clf: 4 logloss: 9.9641878687
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  193   F = 4.437879E-01    MAXCV = 3.202833E-21
+   X =-3.202833E-21   2.922048E+00   7.952393E-01   3.682515E+00   8.974721E-02
+error: 0.443787871132
+Score 0.443787871132
+
+
+training model with parameters: 
+{'colsample_bytree': 0.65, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 5.0, 'subsample': 0.55, 'eta': 0.2, 'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 0.75}
+clf: 4 logloss: 9.85793782258
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437924E-01    MAXCV = 0.000000E+00
+   X = 2.912651E-03   3.086757E+00   8.505086E-01   3.863490E+00   9.702449E-02
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443792438654
+Score 0.443792438654
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.75, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.55}
+clf: 4 logloss: 9.80564047973
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  115   F = 4.435524E-01    MAXCV = 9.273232E-21
+   X =-9.273232E-21   2.474249E+00   1.088978E+00   4.732598E+00   1.964299E+00
+error: 0.443552357293
+Score 0.443552357293
+
+
+training model with parameters: 
+{'colsample_bytree': 0.7000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.55, 'eta': 0.375, 'objective': 'binary:logistic', 'max_depth': 2.0, 'gamma': 0.55}
+clf: 4 logloss: 9.98617850097
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437973E-01    MAXCV = 1.242636E-19
+   X = 8.361547E-03   2.736076E+00   8.473020E-01   3.235505E+00  -1.242636E-19
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443797309894
+Score 0.443797309894
+
+
+training model with parameters: 
+{'colsample_bytree': 0.55, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.75, 'eta': 0.275, 'objective': 'binary:logistic', 'max_depth': 4.0, 'gamma': 0.9}
+clf: 4 logloss: 9.98193926091
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.438011E-01    MAXCV = 1.429213E-19
+   X = 8.999807E-03   3.062125E+00   1.017191E+00   3.424056E+00  -1.429213E-19
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443801131494
+Score 0.443801131494
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.9500000000000001, 'eta': 0.15000000000000002, 'objective': 'binary:logistic', 'max_depth': 3.0, 'gamma': 0.5}
+clf: 4 logloss: 10.0087021322
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437964E-01    MAXCV = 2.324944E-20
+   X = 9.430795E-03   3.188925E+00   9.327889E-01   3.793646E+00  -2.324944E-20
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443796428743
+Score 0.443796428743
+
+
+training model with parameters: 
+{'colsample_bytree': 0.75, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.8, 'eta': 0.47500000000000003, 'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 0.55}
+clf: 4 logloss: 9.57439816425
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437548E-01    MAXCV = 0.000000E+00
+   X = 2.771195E-03   2.621604E+00   7.626601E-01   3.320911E+00   1.761824E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443754827797
+Score 0.443754827797
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.55, 'eta': 0.25, 'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 0.55}
+clf: 4 logloss: 9.7950565234
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.438023E-01    MAXCV = 1.934396E-19
+   X = 6.442265E-03   2.223162E+00   7.627161E-01   2.476491E+00  -1.934396E-19
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443802287972
+Score 0.443802287972
+
+
+training model with parameters: 
+{'colsample_bytree': 0.55, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 6.0, 'subsample': 0.8500000000000001, 'eta': 0.35000000000000003, 'objective': 'binary:logistic', 'max_depth': 6.0, 'gamma': 0.8}
+clf: 4 logloss: 9.93110579268
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437956E-01    MAXCV = 1.204849E-20
+   X = 8.297334E-03   2.782276E+00   7.603388E-01   3.402301E+00  -1.204849E-20
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443795642801
+Score 0.443795642801
+
+
+training model with parameters: 
+{'colsample_bytree': 0.7000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.9, 'eta': 0.4, 'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 0.9}
+clf: 4 logloss: 9.14495204031
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.436212E-01    MAXCV = 0.000000E+00
+   X = 2.874465E-03   2.490309E+00   8.007985E-01   3.300350E+00   3.647381E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443621225923
+Score 0.443621225923
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.7000000000000001, 'eta': 0.225, 'objective': 'binary:logistic', 'max_depth': 3.0, 'gamma': 0.55}
+clf: 4 logloss: 9.98854444239
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437983E-01    MAXCV = 8.324119E-20
+   X = 9.119912E-03   3.172469E+00   9.734483E-01   3.629523E+00  -8.324119E-20
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443798338235
+Score 0.443798338235
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.9, 'eta': 0.35000000000000003, 'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.9500000000000001}
+clf: 4 logloss: 9.53991856034
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.436974E-01    MAXCV = 0.000000E+00
+   X = 5.786047E-03   2.534023E+00   7.969588E-01   3.329035E+00   3.435252E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443697383586
+Score 0.443697383586
+
+
+training model with parameters: 
+{'colsample_bytree': 0.6000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.8500000000000001, 'eta': 0.4, 'objective': 'binary:logistic', 'max_depth': 4.0, 'gamma': 0.9500000000000001}
+clf: 4 logloss: 9.96359525344
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437958E-01    MAXCV = 1.106303E-20
+   X = 8.333717E-03   2.811317E+00   7.892768E-01   3.418470E+00  -1.106303E-20
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443795786319
+Score 0.443795786319
+
+
+training model with parameters: 
+{'colsample_bytree': 0.7000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.6000000000000001, 'eta': 0.15000000000000002, 'objective': 'binary:logistic', 'max_depth': 4.0, 'gamma': 0.6000000000000001}
+clf: 4 logloss: 9.97818207323
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437958E-01    MAXCV = 0.000000E+00
+   X = 7.658622E-03   3.195919E+00   8.941060E-01   3.865291E+00   1.560761E-02
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443795799307
+Score 0.443795799307
+
+
+training model with parameters: 
+{'colsample_bytree': 0.75, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.9500000000000001, 'eta': 0.25, 'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 9.39767297551
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.435686E-01    MAXCV = 0.000000E+00
+   X = 3.078967E-03   2.054385E+00   7.195298E-01   2.997520E+00   5.448126E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443568630863
+Score 0.443568630863
+
+
+training model with parameters: 
+{'colsample_bytree': 0.55, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 5.0, 'subsample': 0.8500000000000001, 'eta': 0.42500000000000004, 'objective': 'binary:logistic', 'max_depth': 6.0, 'gamma': 1.0}
+clf: 4 logloss: 9.92260469015
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.438097E-01    MAXCV = 4.663822E-19
+   X = 8.948655E-03   3.229776E+00   1.206101E+00   3.406212E+00  -4.663822E-19
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443809734299
+Score 0.443809734299
+
+
+training model with parameters: 
+{'colsample_bytree': 0.6000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 5.0, 'subsample': 0.75, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 1.0}
+clf: 4 logloss: 9.69934577336
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  108   F = 4.436962E-01    MAXCV = 1.446540E-23
+   X =-1.446540E-23   2.698473E+00   8.549484E-01   3.808901E+00   6.832400E-01
+error: 0.443696200178
+Score 0.443696200178
+
+
+training model with parameters: 
+{'colsample_bytree': 0.65, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.8500000000000001, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 1.0, 'gamma': 0.65}
+clf: 4 logloss: 11.3671011956
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.438727E-01    MAXCV = 5.744992E-21
+   X =-5.744992E-21   3.710616E+00   2.182539E+00   3.428304E+00   7.935567E-03
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443872658607
+Score 0.443872658607
+
+
+training model with parameters: 
+{'colsample_bytree': 0.6000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 4.0, 'subsample': 0.9500000000000001, 'eta': 0.375, 'objective': 'binary:logistic', 'max_depth': 2.0, 'gamma': 0.7000000000000001}
+clf: 4 logloss: 9.9990260766
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437968E-01    MAXCV = 2.126048E-20
+   X = 9.088891E-03   3.128561E+00   9.156484E-01   3.670455E+00  -2.126048E-20
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.44379680962
+Score 0.44379680962
+
+
+training model with parameters: 
+{'colsample_bytree': 0.55, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 4.0, 'subsample': 0.9500000000000001, 'eta': 0.125, 'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.9}
+clf: 4 logloss: 9.82722304183
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  115   F = 4.437410E-01    MAXCV = 1.367273E-21
+   X =-1.367273E-21   2.842047E+00   8.773858E-01   3.987745E+00   6.246625E-01
+error: 0.443740954701
+Score 0.443740954701
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.65, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.8}
+clf: 4 logloss: 10.4461501909
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  153   F = 4.437725E-01    MAXCV = 1.694066E-26
+   X =-1.694066E-26   2.626448E+00   6.957956E-01   3.320740E+00   1.046319E-01
+error: 0.443772537916
+Score 0.443772537916
+
+
+training model with parameters: 
+{'colsample_bytree': 1.0, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 1.0, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 9.64042673109
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =   98   F = 4.432722E-01    MAXCV = 7.640669E-21
+   X =-7.640669E-21   1.917530E+00   1.229258E+00   4.791771E+00   2.520500E+00
+error: 0.443272191143
+Score 0.443272191143
+
+
+training model with parameters: 
+{'colsample_bytree': 1.0, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.65, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.7000000000000001}
+clf: 4 logloss: 9.43931732484
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  106   F = 4.433914E-01    MAXCV = 8.559782E-21
+   X =-8.559782E-21   2.551307E+00   1.119632E+00   4.506428E+00   1.599971E+00
+error: 0.443391394606
+Score 0.443391394606
+
+
+training model with parameters: 
+{'colsample_bytree': 1.0, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.65, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 0.7000000000000001}
+clf: 4 logloss: 9.52213333225
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  113   F = 4.434590E-01    MAXCV = 1.351893E-21
+   X =-1.351893E-21   2.237116E+00   9.290772E-01   3.865834E+00   1.320589E+00
+error: 0.443458977491
+Score 0.443458977491
+
+
+training model with parameters: 
+{'colsample_bytree': 1.0, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.65, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.7000000000000001}
+clf: 4 logloss: 9.63246536159
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  121   F = 4.433832E-01    MAXCV = 7.247911E-21
+   X =-7.247911E-21   2.330654E+00   1.141995E+00   4.835879E+00   2.306942E+00
+error: 0.443383184011
+Score 0.443383184011
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.5, 'eta': 0.17500000000000002, 'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.75}
+clf: 4 logloss: 9.05496599186
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  230   F = 4.434950E-01    MAXCV = 1.212155E-20
+   X =-1.212155E-20   2.460784E+00   8.373363E-01   3.441364E+00   5.749848E-01
+error: 0.443494969966
+Score 0.443494969966
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 4.0, 'subsample': 0.7000000000000001, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.65}
+clf: 4 logloss: 10.5089517199
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  247   F = 4.437785E-01    MAXCV = 1.974459E-25
+   X =-1.974459E-25   3.145311E+00   8.347562E-01   3.937315E+00   7.002057E-02
+error: 0.443778454584
+Score 0.443778454584
+
+
+training model with parameters: 
+{'colsample_bytree': 1.0, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 6.0, 'subsample': 0.6000000000000001, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 9.90282592913
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =   96   F = 4.436910E-01    MAXCV = 2.693451E-21
+   X =-2.693451E-21   2.499098E+00   8.346367E-01   3.919755E+00   1.053073E+00
+error: 0.443690981021
+Score 0.443690981021
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 1.0, 'eta': 0.125, 'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 9.27906409255
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  134   F = 4.433382E-01    MAXCV = 6.966815E-21
+   X =-6.966815E-21   2.947369E+00   1.355743E+00   5.198461E+00   1.664637E+00
+error: 0.443338223209
+Score 0.443338223209
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.9, 'eta': 0.125, 'objective': 'binary:logistic', 'max_depth': 7.0, 'gamma': 0.8}
+clf: 4 logloss: 9.91125030415
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  103   F = 4.437378E-01    MAXCV = 0.000000E+00
+   X = 2.074574E-21   3.469868E+00   1.118030E+00   5.093708E+00   9.419893E-01
+error: 0.443737753484
+Score 0.443737753484
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 1.0, 'eta': 0.30000000000000004, 'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 9.37055734236
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.436405E-01    MAXCV = 0.000000E+00
+   X = 7.316581E-03   2.241208E+00   7.387423E-01   3.079702E+00   4.249002E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443640480902
+Score 0.443640480902
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 1.0, 'eta': 0.2, 'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 0.9500000000000001}
+clf: 4 logloss: 9.11380642706
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  394   F = 4.435030E-01    MAXCV = 0.000000E+00
+   X = 1.616973E-03   2.021405E+00   7.548702E-01   3.049742E+00   6.204754E-01
+error: 0.443502990271
+Score 0.443502990271
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 5.0, 'subsample': 1.0, 'eta': 0.2, 'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 0.75}
+clf: 4 logloss: 9.49101549525
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  129   F = 4.433950E-01    MAXCV = 0.000000E+00
+   X = 9.587742E-22   2.482801E+00   9.892376E-01   4.053647E+00   1.141847E+00
+error: 0.443394954568
+Score 0.443394954568
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.8, 'eta': 0.125, 'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 9.67090913674
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  119   F = 4.436182E-01    MAXCV = 0.000000E+00
+   X = 9.605354E-24   2.544175E+00   9.144180E-01   3.915672E+00   9.292001E-01
+error: 0.44361819959
+Score 0.44361819959
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.8, 'eta': 0.30000000000000004, 'objective': 'binary:logistic', 'max_depth': 8.0, 'gamma': 0.9}
+clf: 4 logloss: 9.74719638133
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  970   F = 4.437660E-01    MAXCV = 0.000000E+00
+   X = 2.106245E-03   2.345941E+00   6.765672E-01   3.060337E+00   2.098723E-01
+error: 0.443765971292
+Score 0.443765971292
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 1.0, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 0.8}
+clf: 4 logloss: 9.72307772381
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  105   F = 4.435643E-01    MAXCV = 0.000000E+00
+   X = 5.037589E-21   2.483792E+00   1.079686E+00   4.460074E+00   1.580825E+00
+error: 0.443564348941
+Score 0.443564348941
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.9, 'eta': 0.17500000000000002, 'objective': 'binary:logistic', 'max_depth': 8.0, 'gamma': 0.9500000000000001}
+clf: 4 logloss: 9.85846797673
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  150   F = 4.437675E-01    MAXCV = 4.645646E-21
+   X =-4.645646E-21   2.714711E+00   8.091290E-01   3.662856E+00   3.587417E-01
+error: 0.443767488756
+Score 0.443767488756
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.9500000000000001, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 0.9}
+clf: 4 logloss: 9.60126266767
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  105   F = 4.431574E-01    MAXCV = 0.000000E+00
+   X = 6.835556E-24   1.593343E+00   1.222734E+00   4.843625E+00   3.126602E+00
+error: 0.443157404525
+Score 0.443157404525
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.9500000000000001, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 1.0}
+clf: 4 logloss: 9.93521658787
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  118   F = 4.436385E-01    MAXCV = 3.384257E-21
+   X =-3.384257E-21   2.517118E+00   1.147576E+00   5.306340E+00   2.598368E+00
+error: 0.443638503195
+Score 0.443638503195
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 4.0, 'subsample': 0.8, 'eta': 0.47500000000000003, 'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 0.9}
+clf: 4 logloss: 9.0994616424
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.435350E-01    MAXCV = 0.000000E+00
+   X = 8.722808E-03   2.868593E+00   9.360745E-01   3.813871E+00   4.502584E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443535018123
+Score 0.443535018123
+
+
+training model with parameters: 
+{'colsample_bytree': 0.5, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.9, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 7.0, 'gamma': 0.75}
+clf: 4 logloss: 9.95269594473
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =   87   F = 4.437728E-01    MAXCV = 0.000000E+00
+   X = 1.294885E-21   3.373105E+00   9.830615E-01   4.595928E+00   5.889487E-01
+error: 0.443772802999
+Score 0.443772802999
+
+
+training model with parameters: 
+{'colsample_bytree': 0.75, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.9500000000000001, 'eta': 0.225, 'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.9500000000000001}
+clf: 4 logloss: 9.69093498912
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  706   F = 4.437424E-01    MAXCV = 0.000000E+00
+   X = 1.636922E-03   2.579037E+00   7.899363E-01   3.496536E+00   3.726490E-01
+error: 0.443742449773
+Score 0.443742449773
+
+
+training model with parameters: 
+{'colsample_bytree': 0.7000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 6.0, 'subsample': 0.75, 'eta': 0.17500000000000002, 'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.8}
+clf: 4 logloss: 9.69209030946
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  215   F = 4.437295E-01    MAXCV = 0.000000E+00
+   X = 3.380162E-22   2.778010E+00   8.370583E-01   3.755469E+00   4.342680E-01
+error: 0.443729531551
+Score 0.443729531551
+
+
+training model with parameters: 
+{'colsample_bytree': 0.75, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.7000000000000001, 'eta': 0.30000000000000004, 'objective': 'binary:logistic', 'max_depth': 5.0, 'gamma': 0.9}
+clf: 4 logloss: 9.94431902597
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437999E-01    MAXCV = 0.000000E+00
+   X = 7.710881E-03   3.110840E+00   1.039456E+00   3.569458E+00   2.468178E-02
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.44379990817
+Score 0.44379990817
+
+
+training model with parameters: 
+{'colsample_bytree': 0.65, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.9, 'eta': 0.275, 'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 1.0}
+clf: 4 logloss: 9.36418618488
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  178   F = 4.435766E-01    MAXCV = 8.109535E-21
+   X =-8.109535E-21   2.314602E+00   7.791705E-01   3.331417E+00   5.426797E-01
+error: 0.443576606246
+Score 0.443576606246
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.8, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 0.5}
+clf: 4 logloss: 9.84416028883
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  109   F = 4.436834E-01    MAXCV = 0.000000E+00
+   X = 6.666839E-22   2.614140E+00   9.237483E-01   4.182220E+00   1.120604E+00
+error: 0.443683369845
+Score 0.443683369845
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 1.0, 'eta': 0.15000000000000002, 'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.9500000000000001}
+clf: 4 logloss: 9.10377845108
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.433472E-01    MAXCV = 0.000000E+00
+   X = 1.132772E-03   1.879271E+00   8.312614E-01   3.116119E+00   8.758919E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443347244658
+Score 0.443347244658
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.5, 'eta': 0.225, 'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 0.8}
+clf: 4 logloss: 9.40331646729
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  222   F = 4.437166E-01    MAXCV = 0.000000E+00
+   X = 3.320985E-21   2.571049E+00   7.421060E-01   3.354432E+00   2.569525E-01
+error: 0.443716596522
+Score 0.443716596522
+
+
+training model with parameters: 
+{'colsample_bytree': 1.0, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 5.0, 'subsample': 0.9500000000000001, 'eta': 0.45, 'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 9.52251685007
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437369E-01    MAXCV = 0.000000E+00
+   X = 7.936983E-03   2.937567E+00   1.214063E+00   3.293088E+00   2.949951E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443736886406
+Score 0.443736886406
+
+
+training model with parameters: 
+{'colsample_bytree': 0.65, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.8500000000000001, 'eta': 0.35000000000000003, 'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 1.0}
+clf: 4 logloss: 9.02331986373
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.436646E-01    MAXCV = 0.000000E+00
+   X = 9.198659E-03   2.815026E+00   9.103731E-01   3.672075E+00   3.633408E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443664565358
+Score 0.443664565358
+
+
+training model with parameters: 
+{'colsample_bytree': 0.7000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 7.0, 'gamma': 0.9}
+clf: 4 logloss: 9.99755151005
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  114   F = 4.437468E-01    MAXCV = 0.000000E+00
+   X = 5.369892E-22   2.471737E+00   7.808763E-01   3.743142E+00   8.753444E-01
+error: 0.443746775042
+Score 0.443746775042
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.8500000000000001, 'eta': 0.15000000000000002, 'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 0.6000000000000001}
+clf: 4 logloss: 9.66324233517
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  127   F = 4.436785E-01    MAXCV = 2.041007E-21
+   X =-2.041007E-21   2.695486E+00   9.238289E-01   3.946710E+00   7.139496E-01
+error: 0.443678455763
+Score 0.443678455763
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 4.0, 'subsample': 1.0, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.65}
+clf: 4 logloss: 10.4910777077
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  279   F = 4.437757E-01    MAXCV = 0.000000E+00
+   X = 1.343750E-21   2.934147E+00   7.791401E-01   3.689199E+00   8.608985E-02
+error: 0.443775728358
+Score 0.443775728358
+
+
+training model with parameters: 
+{'colsample_bytree': 0.8, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.9500000000000001, 'eta': 0.25, 'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.75}
+clf: 4 logloss: 8.83410392854
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  315   F = 4.433801E-01    MAXCV = 1.405734E-21
+   X =-1.405734E-21   2.075537E+00   7.960119E-01   3.162421E+00   6.352750E-01
+error: 0.443380090714
+Score 0.443380090714
+
+
+training model with parameters: 
+{'colsample_bytree': 0.75, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 2.0, 'subsample': 0.7000000000000001, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 0.9}
+clf: 4 logloss: 9.52915594885
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =   96   F = 4.435312E-01    MAXCV = 1.025539E-25
+   X =-1.025539E-25   2.561898E+00   9.444602E-01   3.983240E+00   1.072017E+00
+error: 0.443531174899
+Score 0.443531174899
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.75, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 6.0, 'gamma': 0.9500000000000001}
+clf: 4 logloss: 10.0079369401
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  110   F = 4.437565E-01    MAXCV = 1.055508E-21
+   X =-1.055508E-21   2.646667E+00   8.090599E-01   3.872324E+00   7.301969E-01
+error: 0.443756535237
+Score 0.443756535237
+
+
+training model with parameters: 
+{'colsample_bytree': 1.0, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 6.0, 'subsample': 0.55, 'eta': 0.2, 'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 0.8}
+clf: 4 logloss: 9.62476422893
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437180E-01    MAXCV = 0.000000E+00
+   X = 1.422901E-03   2.424863E+00   7.242052E-01   3.207880E+00   3.118560E-01
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443717977421
+Score 0.443717977421
+
+
+training model with parameters: 
+{'colsample_bytree': 0.9500000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 3.0, 'subsample': 0.8500000000000001, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 9.87307381732
+
+   Normal return from subroutine COBYLA
+
+   NFVALS =  112   F = 4.435980E-01    MAXCV = 1.014025E-22
+   X =-1.014025E-22   2.275967E+00   1.038418E+00   4.614619E+00   2.069923E+00
+error: 0.443598040025
+Score 0.443598040025
+
+
+training model with parameters: 
+{'colsample_bytree': 0.5, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 4.0, 'subsample': 0.9500000000000001, 'eta': 0.325, 'objective': 'binary:logistic', 'max_depth': 5.0, 'gamma': 0.7000000000000001}
+clf: 4 logloss: 9.95663715417
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.437980E-01    MAXCV = 2.244151E-19
+   X = 7.882226E-03   2.752846E+00   8.354719E-01   3.164860E+00  -2.244151E-19
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.443797968384
+Score 0.443797968384
+
+
+training model with parameters: 
+{'colsample_bytree': 0.6000000000000001, 'silent': 1, 'eval_metric': 'logloss', 'min_child_weight': 1.0, 'subsample': 0.6000000000000001, 'eta': 0.5, 'objective': 'binary:logistic', 'max_depth': 1.0, 'gamma': 0.8500000000000001}
+clf: 4 logloss: 10.0682676431
+
+   Return from subroutine COBYLA because the MAXFUN limit has been reached.
+
+   NFVALS = 1000   F = 4.438016E-01    MAXCV = 5.630575E-19
+   X = 9.408427E-03   3.233507E+00   1.087549E+00   3.608350E+00  -5.630575E-19
+COBYLA failed to find a solution: Maximum number of function evaluations has been exceeded.
+error: 0.44380158804
+Score 0.44380158804
+
+
+Optimal parameters for dtrain are:  {'colsample_bytree': 0.8500000000000001, 'min_child_weight': 1.0, 'subsample': 0.9500000000000001, 'eta': 0.05, 'max_depth': 14.0, 'gamma': 0.9}
