@@ -18,6 +18,7 @@ eggs/
 lib/
 lib64/
 parts/
+output/
 sdist/
 var/
 *.egg-info/
@@ -60,3 +61,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#data
+data/
+
+# PyCharm
+.idea/
