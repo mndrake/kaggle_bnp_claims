@@ -59,9 +59,10 @@ def blend_predictions(train_preds, test_preds, labels, ids_sub, skf, save_result
 
 if __name__ == '__main__':
     random_seed = 1337
-    train_preds, test_preds = pickle.load(open('output/baseline_lvl2_20.pickle'))
+    train_preds, test_preds = pickle.load(open('output/baseline_lvl2_dl.pickle'))
     labels = pickle.load(open('output/y.pickle'))
     ids_sub = pickle.load(open('output/ids_submission.pickle'))
     skf = list(StratifiedKFold(labels, n_folds=20, random_state=random_seed))
     blend_predictions(train_preds, test_preds, labels, ids_sub, skf, save_results=True)
 
+# 0.446589072032
